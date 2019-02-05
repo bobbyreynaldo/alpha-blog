@@ -1,3 +1,3 @@
 # README
 
-This is update readme text
+This is new alpha-blog
